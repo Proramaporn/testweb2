@@ -1,5 +1,5 @@
 # testweb2
 
-$ npm i \n
+$ npm i 
 
 $ npm start --web
